@@ -1,0 +1,4 @@
+pandas == 2.2.3
+numpy == 1.23.4
+ipykernel == 6.29.5
+ydata-profiling==4.10.0
